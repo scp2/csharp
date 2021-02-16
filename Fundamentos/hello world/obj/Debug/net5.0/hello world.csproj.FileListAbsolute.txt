@@ -1,0 +1,16 @@
+/home/scpaes/Dev/csharp/Fundamentos/hello world/bin/Debug/net5.0/hello world
+/home/scpaes/Dev/csharp/Fundamentos/hello world/bin/Debug/net5.0/hello world.deps.json
+/home/scpaes/Dev/csharp/Fundamentos/hello world/bin/Debug/net5.0/hello world.runtimeconfig.json
+/home/scpaes/Dev/csharp/Fundamentos/hello world/bin/Debug/net5.0/hello world.runtimeconfig.dev.json
+/home/scpaes/Dev/csharp/Fundamentos/hello world/bin/Debug/net5.0/hello world.dll
+/home/scpaes/Dev/csharp/Fundamentos/hello world/bin/Debug/net5.0/ref/hello world.dll
+/home/scpaes/Dev/csharp/Fundamentos/hello world/bin/Debug/net5.0/hello world.pdb
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.csprojAssemblyReference.cache
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.GeneratedMSBuildEditorConfig.editorconfig
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.AssemblyInfoInputs.cache
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.AssemblyInfo.cs
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.csproj.CoreCompileInputs.cache
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.dll
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/ref/hello world.dll
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.pdb
+/home/scpaes/Dev/csharp/Fundamentos/hello world/obj/Debug/net5.0/hello world.genruntimeconfig.cache

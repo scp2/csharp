@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/scpaes/.dotnet/store/|arch|/|tfm|",
+      "/home/scpaes/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDJFhLmSQcGqHcAoZkCH5riVgqTf8JOLSr7t40BSUKj897us+D7kIQOrOUfTlsymMb+ja/3pubTgI5Y9UE6RLA==",
+  "success": true,
+  "projectFilePath": "/home/scpaes/Dev/csharp/OO/ByteBank_v2/ByteBank_v2.csproj",
+  "expectedPackageFiles": [
+    "/home/scpaes/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/scpaes/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

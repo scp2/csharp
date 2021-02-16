@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/UkaBFj00A6mc2xkMSs1xnrByaRxtpnBuu3WfXO8nPkCiOcMZQmlKRz5Ns1ZcnM9tHoR56sYB/amj2diRQk/7A==",
+  "success": true,
+  "projectFilePath": "/home/scpaes/Dev/csharp/Fundamentos/Variaveis/Variaveis.csproj",
+  "expectedPackageFiles": [
+    "/home/scpaes/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/scpaes/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

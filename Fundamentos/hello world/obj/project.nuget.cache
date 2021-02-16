@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHMj3eADrfMPh8KdMxkHtbUHmRcEdYZxEqOJ8VBDzaDnW8SkirEVyj/kzQMooojrUCdxPqzgHo85i1EyBLMjnw==",
+  "success": true,
+  "projectFilePath": "/home/scpaes/Dev/csharp/Fundamentos/hello world/hello world.csproj",
+  "expectedPackageFiles": [
+    "/home/scpaes/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/scpaes/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
