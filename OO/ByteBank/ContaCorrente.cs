@@ -3,7 +3,7 @@ namespace ByteBank
 {
     public class ContaCorrente
     {
-        //É possível ter um dos elementos privados.
+        //É possível ter um dos métodos do atributo público como privado.
         public static int TotalDeContasCriadas {get; private set;}
         public int Agencia { get; set;}
         public int Conta {get; set;}

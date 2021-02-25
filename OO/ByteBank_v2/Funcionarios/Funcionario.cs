@@ -1,28 +1,22 @@
 using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ByteBank_v2.Funcionarios
 {
-    public class Funcionario
+    public abstract class Funcionario
     {
-        private int _tipo;
-        public string nome {get; set;}
-        public string CPF { get; set; }
-        public double Salario { get; set; }
+        public static int TotalDeFuncionarios { get; private set; }
+        public string Nome { get; set; }
+        public string CPF { get; private set; }
+        public double Salario { get; protected set; }
 
-        public double GetBonificacao()
+        public Funcionario(double salario, string cpf)
         {
-            if(_tipo == 1)
-                return Salario;
-            return Salario * 0.10;
+            Salario = salario;
+            CPF = cpf;
+            TotalDeFuncionarios++;
         }
 
-        public Funcionario(int tipo)
-        {
-            _tipo = tipo;
-        }
+        public abstract double GetBonificacao();
+        public abstract void AumentarSalario();
     }
-
 }
