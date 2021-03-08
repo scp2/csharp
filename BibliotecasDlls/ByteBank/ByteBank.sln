@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "ByteBank\ByteBank.csproj", "{9208C033-F073-4D1A-9DDE-D6AA93F0222E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Modelos", "ByteBank.Modelos\ByteBank.Modelos.csproj", "{DA1CB65B-05BB-4826-85FF-C019338C38CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9208C033-F073-4D1A-9DDE-D6AA93F0222E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9208C033-F073-4D1A-9DDE-D6AA93F0222E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9208C033-F073-4D1A-9DDE-D6AA93F0222E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9208C033-F073-4D1A-9DDE-D6AA93F0222E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1CB65B-05BB-4826-85FF-C019338C38CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1CB65B-05BB-4826-85FF-C019338C38CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1CB65B-05BB-4826-85FF-C019338C38CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1CB65B-05BB-4826-85FF-C019338C38CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

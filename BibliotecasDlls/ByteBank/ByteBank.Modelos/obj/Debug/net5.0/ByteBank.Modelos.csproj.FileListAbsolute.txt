@@ -1,0 +1,12 @@
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ByteBank.Modelos.csprojAssemblyReference.cache
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ByteBank.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ByteBank.Modelos.AssemblyInfoInputs.cache
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ByteBank.Modelos.AssemblyInfo.cs
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ByteBank.Modelos.csproj.CoreCompileInputs.cache
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/bin/Debug/net5.0/ByteBank.Modelos.deps.json
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/bin/Debug/net5.0/ByteBank.Modelos.dll
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/bin/Debug/net5.0/ref/ByteBank.Modelos.dll
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/bin/Debug/net5.0/ByteBank.Modelos.pdb
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ByteBank.Modelos.dll
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ref/ByteBank.Modelos.dll
+/home/scpaes/Dev/csharp/BibliotecasDlls/ByteBank/ByteBank.Modelos/obj/Debug/net5.0/ByteBank.Modelos.pdb
